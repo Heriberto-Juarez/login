@@ -5,6 +5,8 @@ class Main extends CI_Controller {
 
 	public function index()
 	{
+		$this->load->view('component/skeleton/head');
 		$this->load->view('main/main');
+		$this->load->view('component/skeleton/footer');
 	}
 }
