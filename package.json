@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Heriberto-Juarez/login/issues"
   },
-  "homepage": "https://github.com/Heriberto-Juarez/login#readme"
+  "homepage": "https://github.com/Heriberto-Juarez/login#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "animejs": "^3.1.0",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
 }
