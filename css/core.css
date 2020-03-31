@@ -1,0 +1,18 @@
+.input-group-text {
+	background-color: #ffffff !important;
+	color: tomato;
+}
+
+input {
+	border-radius: 0 !important;
+}
+
+.btn.btn-tomato{
+	background-color: tomato;
+	color: #ffffff;
+}
+
+.btn.btn-tomato:active {
+	background-color: darkred;
+	color: #eeeeee;
+}
