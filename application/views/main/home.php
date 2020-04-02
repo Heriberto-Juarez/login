@@ -13,5 +13,6 @@
 		impropios de la agitada vida social, llevaran a cabo algunas de sus obras maestras.
 	</p>
 
-	<a href="<?=base_url()?>Main/cerrar_sesion" class="btn btn-danger">Cerrar sesión <i class="fas fa-sign-out-alt"></i></a>
+	<a href="<?= base_url() ?>Main/cerrar_sesion" class="btn btn-danger">Cerrar sesión <i
+			class="fas fa-sign-out-alt"></i></a>
 </main>
