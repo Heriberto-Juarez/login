@@ -2,6 +2,9 @@
 
 Sistema de login para la clase de ingenieria de Software II
 
-Autores:
+
+*Autores:*
+
 Juarez Jaimes Heriberto
+
 Espinosa Ruiz Jorge Arath
